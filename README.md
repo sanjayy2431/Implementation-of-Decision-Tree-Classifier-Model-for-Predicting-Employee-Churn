@@ -29,11 +29,17 @@ data=pd.read_csv("C:/Users/admin/Desktop/Employee.csv")
 data.head()
 ```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/f24f2a8c-3faf-4d64-8e2d-1da7ed2da290)
+```
 data.info()
+```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/652ad3b5-0784-43b3-9bbc-63a4ebca9d37)
+```
 data.isnull().sum()
+```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/a45d5c35-fbeb-4e9a-b4e7-9a782d9786f8)
+```
 data['left'].value_counts()
+```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/0abfc33d-7845-43d1-ab5f-796af8fcadfc)
 ```
 from sklearn.preprocessing import LabelEncoder
