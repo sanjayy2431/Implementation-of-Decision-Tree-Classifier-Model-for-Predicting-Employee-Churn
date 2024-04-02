@@ -64,7 +64,9 @@ accuracy=metrics.accuracy_score(y_test,y_predict)
 accuracy
 ```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/2a708ed5-7840-4798-a5b5-e8de117eec6b)
+```
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+```
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/08cb1f01-8812-4173-b1c5-379d5d380ba9)
 
 
