@@ -21,6 +21,9 @@ Developed by: v.sanjay
 RegisterNumber:  212223230188
 */
 ```
+
+```
+
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Desktop/Employee.csv")
 data.head()
@@ -47,7 +50,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 
-```
+
 ## OUTPUT:
 
 ```
