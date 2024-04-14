@@ -53,44 +53,41 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## OUTPUT:
 
-```
-data.head()
-```
+## data.head()
+
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/f24f2a8c-3faf-4d64-8e2d-1da7ed2da290)
 
-```
-data.info()
-```
+## data.info()
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/652ad3b5-0784-43b3-9bbc-63a4ebca9d37)
-```
-CHECKING NULL VALUES 
 
-```
+## CHECKING NULL VALUES 
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/a45d5c35-fbeb-4e9a-b4e7-9a782d9786f8)
-```
-Value_counts()
 
-```
+## Value_counts()
+
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/0abfc33d-7845-43d1-ab5f-796af8fcadfc)
-```
-Dataset after encoding
 
-```
+## Dataset after encoding
+
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/5b336a81-afb7-45d9-8b25-3b4d758f47d7)
-```
-x values
-```
+
+## x values
+
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/708cc013-2566-4fa3-8ee2-2f7966d0c3e4)
-```
-Accuracy
-```
-![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/2a708ed5-7840-4798-a5b5-e8de117eec6b)
-```
-dt.predict()
 
-```
+## Accuracy
+
+![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/2a708ed5-7840-4798-a5b5-e8de117eec6b)
+
+## dt.predict()
+
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/08cb1f01-8812-4173-b1c5-379d5d380ba9)
 
 
