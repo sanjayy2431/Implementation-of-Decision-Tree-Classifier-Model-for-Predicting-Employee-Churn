@@ -56,7 +56,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 ## data.info()
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/652ad3b5-0784-43b3-9bbc-63a4ebca9d37)
