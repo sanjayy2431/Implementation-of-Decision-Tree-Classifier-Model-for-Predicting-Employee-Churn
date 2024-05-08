@@ -21,17 +21,7 @@ Developed by: v.sanjay
 RegisterNumber:  212223230188
 */
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ```
-
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Desktop/Employee.csv")
 data.head()
@@ -60,7 +50,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## OUTPUT:
 
 ## data.head()
-
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149365143/f24f2a8c-3faf-4d64-8e2d-1da7ed2da290)
 
